@@ -39,6 +39,5 @@ Task Completer AI is an AI-powered productivity web application built using Goog
 - LocalStorage
 
 ## Live Demo
- https://ai.studio/apps/3daf33c6-854f-4da4-8a2d-de2c0c5614d2
-
+ https://task-completer-ai-394007544493.asia-southeast1.run.app
 
