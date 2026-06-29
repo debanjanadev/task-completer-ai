@@ -1,0 +1,6 @@
+{
+  "name": "Task Completer AI",
+  "description": "An intelligent productivity agent that analyzes your tasks, stressful thoughts, and deadlines to generate a personalized action plan with tailored coaching tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
